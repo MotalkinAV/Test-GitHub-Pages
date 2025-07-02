@@ -1,0 +1,28 @@
+{
+    "theme_color": "#181818",
+    "background_color": "#181818",
+    "icons": [
+        {
+            "purpose": "maskable",
+            "sizes": "512x512",
+            "src": "icon512_maskable.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any",
+            "sizes": "512x512",
+            "src": "icon512_rounded.png",
+            "type": "image/png"
+        }
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "dir": "auto",
+    "lang": "ru-RU",
+    "name": "Test-GitHub-Pages",
+    "short_name": "TGHP",
+    "id": "https://motalkinav.github.io/Test-GitHub-Pages/",
+    "start_url": "https://motalkinav.github.io/Test-GitHub-Pages/",
+    "scope": "https://motalkinav.github.io/Test-GitHub-Pages/",
+    "description": "Приложение для теста"
+}
