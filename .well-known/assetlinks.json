@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.motalkinav.twa",
+            "sha256_cert_fingerprints": [
+                "A3:AF:49:36:33:E2:09:3D:DD:DB:A6:3F:2F:C9:15:E6:95:79:A6:1B:F3:80:6C:E7:69:16:23:58:4E:67:2E:6B"
+            ]
+        }
+    }
+]
