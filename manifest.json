@@ -16,7 +16,11 @@
         }
     ],
     "orientation": "portrait",
-    "display": "standalone",
+    "display": "fullscreen",
+    "display_override": [
+        "fullscreen",
+        "standalone"
+    ],
     "dir": "auto",
     "lang": "ru-RU",
     "name": "Test GitHub Pages",
