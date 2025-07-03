@@ -15,5 +15,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
-  base: '/2Test-GitHub-Pages/',
+  base: '/Test-GitHub-Pages/',
 })
